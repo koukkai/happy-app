@@ -1,0 +1,49 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Apply styles to elements */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.color-section {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    color: #333;
+}
+
+#section1 {
+    background-color: #FF5733;
+}
+
+#section2 {
+    background-color: #DAF7A6;
+}
+
+#section3 {
+    background-color: #C70039;
+}
